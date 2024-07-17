@@ -8,4 +8,4 @@ This repository contains implementations of three optimization algorithms used t
 - Simulated Annealing
 - Hill Climbing
 
-The results of running the application multiple times are showen in the report, which also analyzes the algorithms comparing thier performance.
+The results of running the application multiple times are shown in the report, which also analyzes the algorithms and compares their performance.
